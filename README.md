@@ -9,6 +9,10 @@ Simple Spring Data JPA project with Postgres connection
 
 [Теория - сайт ПК Зверь](https://pc-zver.ru/news/jpa/)
 
+# Видео инструкция
+
+[![SpringDataJpa](https://img.youtube.com/vi/ZgQZVa9jJsc/0.jpg)](https://www.youtube.com/watch?v=ZgQZVa9jJsc)
+
 # Настройки репозитория
 
 [Spring Init](https://start.spring.io/#!type=gradle-project&language=java&platformVersion=3.3.1&packaging=jar&jvmVersion=17&groupId=pro.kosenkov&artifactId=spring_data_jpa&name=spring_data_jpa&description=Simple%20Spring%20Data%20JPA%20project%20with%20Postgres%20connection&packageName=pro.kosenkov.spring_data_jpa&dependencies=lombok,web,postgresql,data-jpa "Создает каркас этого приложения")
