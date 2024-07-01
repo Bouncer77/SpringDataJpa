@@ -6,4 +6,5 @@ import pro.kosenkov.spring_data_jpa.entity.Weapon;
 
 @Repository
 public interface WeaponRepository extends JpaRepository<Weapon, Long> {
+    Weapon findByNameAndStartDateLessThanEqualAndEndDateGreaterThanEqual(String name, long curDate1, long curDate2);
 }
